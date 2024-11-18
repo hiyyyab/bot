@@ -33,5 +33,5 @@ async def punch(ctx):
 
 
 
-client.run('MTI5MzgwNjEzOTEyMDgxMjA3Mw.G24B_6.cpL751YhnB5kTOLayLdSb0sYZmfD2XeLUmumEA')
+client.run('discord token')
 
